@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preparazione Concorsi Polizia Locale</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body>
+    <header class="bg-blue-500 text-white p-4">
+        <h1 class="text-xl">Preparazione Concorsi Polizia Locale</h1>
+    </header>
+    <main class="p-4">
+        <!-- Qui inseriremo il contenuto dinamico delle pagine -->
+    </main>
+    <footer class="bg-blue-500 text-white p-4 text-center">
+        © 2024 Preparazione Concorsi Polizia Locale
+    </footer>
+</body>
+</html>
